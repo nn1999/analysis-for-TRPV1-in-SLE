@@ -17,3 +17,4 @@ For a detailed description of the experimental design, data processing procedure
 * The expected output includes processed result files.
 * The expected run time for the demo on a standard desktop computer is typically several minutes, depending on the specific script and input size.
 * To run the software on user-provided data, please prepare input files in the same format as the demo data and modify the file paths and parameters in the corresponding scripts.
+* The analysis code in this repository is released under the GNU General Public License v3.0 (GPL-3.0)
