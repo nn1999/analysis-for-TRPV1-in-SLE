@@ -14,6 +14,6 @@ For a detailed description of the experimental design, data processing procedure
 * The full datasets used in the study should be accessed according to the data availability statement of the article.
 * software dependency: R version 4.6.0 Seurat_4.4.0
 * Please clone this repository and install the required dependencies before running the scripts. Typical installation time on a standard desktop computer is expected to be within several minutes, depending on the network connection and package installation speed.
-*The expected output includes processed result files.
-*The expected run time for the demo on a standard desktop computer is typically several minutes, depending on the specific script and input size.
-*To run the software on user-provided data, please prepare input files in the same format as the demo data and modify the file paths and parameters in the corresponding scripts.
+* The expected output includes processed result files.
+* The expected run time for the demo on a standard desktop computer is typically several minutes, depending on the specific script and input size.
+* To run the software on user-provided data, please prepare input files in the same format as the demo data and modify the file paths and parameters in the corresponding scripts.
