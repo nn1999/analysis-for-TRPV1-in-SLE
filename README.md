@@ -11,5 +11,10 @@ For a detailed description of the experimental design, data processing procedure
 
 ## Notes
 
-* This repository contains analysis code only.
-* Any required input data, preprocessing steps, and interpretation of outputs should be understood in the context of the original manuscript.
+* The full datasets used in the study should be accessed according to the data availability statement of the article.
+* software dependency: R version 4.6.0 Seurat_4.4.0
+* Please clone this repository and install the required dependencies before running the scripts. Typical installation time on a standard desktop computer is expected to be within several minutes, depending on the network connection and package installation speed.
+* The expected output includes processed result files.
+* The expected run time for the demo on a standard desktop computer is typically several minutes, depending on the specific script and input size.
+* To run the software on user-provided data, please prepare input files in the same format as the demo data and modify the file paths and parameters in the corresponding scripts.
+* The analysis code in this repository is released under the GNU General Public License v3.0 (GPL-3.0)
